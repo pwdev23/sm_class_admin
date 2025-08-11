@@ -1,3 +1,7 @@
 {
-  "appTitle": "Kelas SM"
+  "appTitle": "Kelas SM",
+  "logIn": "Masuk",
+  "logOut": "Keluar",
+  "email": "E-mail",
+  "password": "Kata sandi"
 }

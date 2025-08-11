@@ -10,4 +10,16 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get appTitle => 'Kelas SM';
+
+  @override
+  String get logIn => 'Masuk';
+
+  @override
+  String get logOut => 'Keluar';
+
+  @override
+  String get email => 'E-mail';
+
+  @override
+  String get password => 'Kata sandi';
 }
