@@ -10,4 +10,16 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get appTitle => 'SM Class';
+
+  @override
+  String get logIn => 'Log in';
+
+  @override
+  String get logOut => 'Log out';
+
+  @override
+  String get email => 'Email';
+
+  @override
+  String get password => 'Password';
 }

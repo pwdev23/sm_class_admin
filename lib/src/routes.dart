@@ -8,6 +8,8 @@ Route<dynamic> onGenerateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (_) => const AuthPage());
     case '/home':
       return MaterialPageRoute(builder: (_) => const HomePage());
+    case '/login':
+      return MaterialPageRoute(builder: (_) => const LoginPage());
     default:
       return MaterialPageRoute(
         builder: (_) => UndefinedRoutePage(routeName: settings.name!),

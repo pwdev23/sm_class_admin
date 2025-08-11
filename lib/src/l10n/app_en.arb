@@ -2,5 +2,21 @@
   "appTitle": "SM Class",
   "@appTitle": {
     "description": "The title of an app"
+  },
+  "logIn": "Log in",
+  "@logIn": {
+    "description": "A title for log in page"
+  },
+  "logOut": "Log out",
+  "@logOut": {
+    "description": "A title for log out page"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "A label for email text field"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "A label for password text field"
   }
 }
